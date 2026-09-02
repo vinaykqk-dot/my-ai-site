@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/my-ai-site/sitemap.xml
+Sitemap: https://vinaykqk-dot.github.io/my-ai-site/sitemap.xml
